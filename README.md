@@ -1,4 +1,6 @@
 # new_project
+How to create python-venv and start a project on GitHub.
+Everything about python-venv
 Check out the full explaination on [YouTube](https://www.youtube.com/watch?v=Gl88lVQOYAY&t=31s)
 ## Python Virtual Environment
 
