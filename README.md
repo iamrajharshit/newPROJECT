@@ -34,6 +34,7 @@
   pip install pandas
   ```
  ### To deactivate venv
+- To deactivate the running venv
   ```
   deactivate
   ```
