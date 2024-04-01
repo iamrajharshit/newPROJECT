@@ -3,10 +3,11 @@
 ## Python Virtual Environment
 
 ### How to Create venv
-- We will be using `cmd` to create.
+- We will be using `cmd` command prompt to create our venv.
+- Lets understand with an example.
+For example:
 - Open `cmd` get into desired dir.
-- For example:
-- Lets create a folder in D drive which will contain all our python venvs
+- Lets create a folder in d drive which will contain all our python venvs
   ```
   d:\md myenvs
   ```
