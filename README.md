@@ -1,5 +1,5 @@
 # new_project
-
+Check out the full explaination on [YouTube](https://www.youtube.com/watch?v=Gl88lVQOYAY&t=31s)
 ## Python Virtual Environment
 
 ### How to Create venv
